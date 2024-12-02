@@ -39,4 +39,5 @@ def generate_special_chars(length):
     return special_chars
 
 #Test case
-print(password_generator(100))
+print(password_generator(10))
+print("Password generation complete!")
